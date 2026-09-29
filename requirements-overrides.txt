@@ -1,0 +1,5 @@
+# Same explicit overrides as the project's locked Linux model environment.
+# llmcompressor's Torch upper bound excludes the pinned vLLM Torch build.
+torch==2.13.0+cu129
+transformers==5.10.1
+compressed-tensors==0.17.1

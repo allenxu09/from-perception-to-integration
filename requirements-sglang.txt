@@ -1,0 +1,2 @@
+# Recorded Gemma-4-12B generation backend: 0.0.0.dev1+ge161bd126.
+sglang @ git+https://github.com/sgl-project/sglang.git@e161bd1265a0082478b7f1c09f224a52d315dc71#subdirectory=python

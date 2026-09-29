@@ -1,0 +1,24 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.uv-cache/
+
+# Generated data, model artifacts, and experiment results
+paper/data/
+paper/results/
+data/
+results/
+quantized_models/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# Local configuration and generated logs
+.env
+.env.*
+*.log
+*.out
+.DS_Store
